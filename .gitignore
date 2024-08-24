@@ -52,3 +52,5 @@ project/db-data
 front-end/.DS_Store
 front-end/cmd/.DS_Store
 workspace.code-workspace
+authentication-service/authApp
+listener-service/listenerApp
